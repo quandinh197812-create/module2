@@ -18,7 +18,6 @@ public class min_pirce {
             }
         }
         System.out.println("Giá trị nhỏ nhấ là" + min);
-
     }
 }
 
