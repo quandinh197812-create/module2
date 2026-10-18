@@ -1,6 +1,6 @@
 package ss3_method;
 import java.util.Scanner;
-public class min_pirce {
+public class minPrice {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nhập số lượng phần tử của mảng");

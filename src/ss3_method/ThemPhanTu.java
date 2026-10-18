@@ -1,7 +1,7 @@
 package ss3_method;
 import java.util.Arrays;
 import java.util.Scanner;
-public class them_phan_tu {
+public class ThemPhanTu {
         public static void main(String[] args) {
                     int[] array = {10, 4, 6, 7, 8, 6, 0, 0, 0, 0};
                     Scanner sc = new Scanner(System.in);
