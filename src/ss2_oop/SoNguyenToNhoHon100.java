@@ -1,5 +1,5 @@
 package ss2_oop;
-public class so_nguyen_to_nho_hon_100 {
+public class SoNguyenToNhoHon100 {
         public static void main(String[] args) {
             System.out.println("Các số nguyên tố nhỏ hơn 100 là:");
             for (int N = 2; N < 100; N++) {

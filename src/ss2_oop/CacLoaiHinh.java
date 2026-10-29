@@ -1,6 +1,6 @@
 package ss2_oop;
 import java.util.Scanner;
-public class cac_loai_hinh {
+public class CacLoaiHinh {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         boolean flag = true;

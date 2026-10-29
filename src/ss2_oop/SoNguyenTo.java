@@ -1,7 +1,7 @@
 package ss2_oop;
 import java.util.Scanner;
 
-public class so_nguyen_to {
+public class SoNguyenTo {
         public static void main(String[] args) {
                     Scanner scanner = new Scanner(System.in);
                     System.out.print("Nhập  số nguyên tố cần in: ");
