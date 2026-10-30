@@ -26,7 +26,7 @@ public class Manage {
                         }
                     }
                     break;
-                case 2: //
+                case 2: 
                     System.out.println("\n--- THEM MOI ---");
                     System.out.print("Nhap id: ");
                     int id = Integer.parseInt(sc.nextLine());
