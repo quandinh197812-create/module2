@@ -1,4 +1,4 @@
-package ss5.Manger.bai1;
+package ss5.Manger.bai2;
 
 public class Student {
     private String name = "quan";
