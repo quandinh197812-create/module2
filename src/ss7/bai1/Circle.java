@@ -24,7 +24,6 @@ public class Circle extends Shape implements Resizeable {
     }
     @Override
     public void resize(double percent) {
-        // Tăng bán kính thêm percent %
         this.radius += this.radius * (percent / 100);
     }
     @Override
