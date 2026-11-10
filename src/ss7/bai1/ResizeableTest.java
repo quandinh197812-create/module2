@@ -10,7 +10,6 @@ public class ResizeableTest {
         System.out.println(" KẾT QUẢ");
         for (Shape shape : shapes) {
             double percent = 1 + random.nextInt(100);
-            System.out.println("\n-------------------------------------------");
             System.out.println("Thông tin ban đầu: " + shape);
             System.out.printf("Diện tích truớc khi tăng: %.2f\n", shape.getArea());
             System.out.printf("Tỉ lệ tăng: %.2f%%\n", percent);

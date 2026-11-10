@@ -17,7 +17,6 @@ public class Square extends Rectangle {
     }
     @Override
     public void resize(double percent) {
-        // Gọi setSide để đảm bảo cả width và length của Square đều được cập nhật cùng lúc
         setSide(getSide() + getSide() * (percent / 100));
     }
     @Override
